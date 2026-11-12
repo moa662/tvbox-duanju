@@ -1,7 +1,32 @@
 # 影视仓 · 短剧 / AI短剧 / AI漫剧 源清单
 
 > 实测日期：2026-11-12　｜　所有地址均为**真实请求验证**，非转载网上合集
-> 交付目录：`outputs/`
+
+---
+
+## ⚡ 一键订阅地址（复制到影视仓「设置 → 配置地址」）
+
+```
+https://raw.githubusercontent.com/moa662/tvbox-duanju/master/tvbox-duanju.json
+```
+
+国内网络慢的话，依次换这两个备用（均实测 200）：
+
+```
+https://cdn.jsdelivr.net/gh/moa662/tvbox-duanju@master/tvbox-duanju.json
+https://gh-proxy.com/https://raw.githubusercontent.com/moa662/tvbox-duanju/master/tvbox-duanju.json
+```
+
+仓内已自托管 spider jar 与 JS 源，**不依赖官方每日轮换的 CDN**（官方仓的
+`spider` 地址每天换，旧地址随时可能失效）。
+
+| 文件 | 地址 |
+|---|---|
+| 主仓配置 | `.../tvbox-duanju.json` |
+| spider jar | `.../jar/xyq-spider.jar` |
+| 红果果 JS 源 | `.../src/hongguo-manju-ai.js` |
+| 红果榜单明细 | `.../hongguo-rank.json` |
+| 分集解析器 | `.../src/红果官网-分集解析器.py` |
 
 ---
 
@@ -114,10 +139,9 @@ GET https://hongguoduanju.com/player/{series_id}/{episode_id}
 ### 怎么用
 
 **影视仓（TV/手机端）**
-1. 设置 → 配置地址 → 粘贴 `影视仓-短剧AI漫剧专用仓.json` 的**托管地址**
-   （本地文件需先传到可公网访问的地址，或用下方的 GitHub 直链）
-2. 或直接添加上面第二节的仓库地址
-3. 刷新首页 → 进入「短剧」/「漫剧」分类
+1. 设置 → 配置地址 → 粘贴上面第一节的一键订阅地址
+2. 刷新首页 → 进入「短剧」/「漫剧」分类
+3. 若某条线报错，切换同分类下的其他站点（仓内已配 4 个短剧专仓互为备份）
 
 **红果果 JS 源接入**
 影视仓需支持 `csp_Drpy2` 且 Node ≥ 18（否则 SM3 签名会失败）。
