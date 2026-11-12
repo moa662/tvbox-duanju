@@ -1,0 +1,464 @@
+{
+  "spider": "https://raw.githubusercontent.com/moa662/tvbox-duanju/master/jar/xyq-spider.jar",
+  "wallpaper": "https://www.loliapi.com/acg/",
+  "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
+  "warning": "短剧/AI短剧/AI漫剧专用聚合仓。线路均为公开接口聚合，仅供个人学习观看，勿用于商业用途或二次分发。",
+  "sites": [
+    {
+      "key": "TVBOXORG_ManJuAiHongGuo",
+      "name": "【官方】漫短┃小红",
+      "type": 3,
+      "类型": "短剧",
+      "api": "csp_ManJuAiHongGuoGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "_来源": "TVbox.org 官方仓",
+      "jar": "https://raw.githubusercontent.com/moa662/tvbox-duanju/master/jar/xyq-spider.jar",
+      "_依赖": "需自托管 jar（已含官方 Guard 原生库）"
+    },
+    {
+      "key": "TVBOXORG_ManJuAiHuoLong",
+      "name": "【官方】漫剧┃小龙",
+      "type": 3,
+      "类型": "短剧",
+      "api": "csp_ManJuAiHuoLongGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "_来源": "TVbox.org 官方仓",
+      "jar": "https://raw.githubusercontent.com/moa662/tvbox-duanju/master/jar/xyq-spider.jar",
+      "_依赖": "需自托管 jar（已含官方 Guard 原生库）"
+    },
+    {
+      "key": "TVBOXORG_ManJuAiQiMao",
+      "name": "【官方】漫剧┃小猫",
+      "type": 3,
+      "类型": "短剧",
+      "api": "csp_ManJuAiQiMaoGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "_来源": "TVbox.org 官方仓",
+      "jar": "https://raw.githubusercontent.com/moa662/tvbox-duanju/master/jar/xyq-spider.jar",
+      "_依赖": "需自托管 jar（已含官方 Guard 原生库）"
+    },
+    {
+      "key": "TVBOXORG_ManJuAiXiFan",
+      "name": "【官方】漫短┃小喜",
+      "type": 3,
+      "类型": "短剧",
+      "api": "csp_ManJuAiXiFanGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "_来源": "TVbox.org 官方仓",
+      "jar": "https://raw.githubusercontent.com/moa662/tvbox-duanju/master/jar/xyq-spider.jar",
+      "_依赖": "需自托管 jar（已含官方 Guard 原生库）"
+    },
+    {
+      "key": "TVBOXORG_ManJuAiHeMa",
+      "name": "【官方】漫短┃小马",
+      "type": 3,
+      "类型": "短剧",
+      "api": "csp_ManJuAiHeMaGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "_来源": "TVbox.org 官方仓",
+      "jar": "https://raw.githubusercontent.com/moa662/tvbox-duanju/master/jar/xyq-spider.jar",
+      "_依赖": "需自托管 jar（已含官方 Guard 原生库）"
+    },
+    {
+      "key": "TVBOXORG_DuanJuAiHaoKan",
+      "name": "【官方】短剧┃好看",
+      "type": 3,
+      "类型": "短剧",
+      "api": "csp_DuanJuAiHaoKanGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "_来源": "TVbox.org 官方仓",
+      "jar": "https://raw.githubusercontent.com/moa662/tvbox-duanju/master/jar/xyq-spider.jar",
+      "_依赖": "需自托管 jar（已含官方 Guard 原生库）"
+    },
+    {
+      "key": "TVBOXORG_DuanJuAiQiMiao",
+      "name": "【官方】短剧┃小猫",
+      "type": 3,
+      "类型": "短剧",
+      "api": "csp_DuanJuAiQiMiaoGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "_来源": "TVbox.org 官方仓",
+      "jar": "https://raw.githubusercontent.com/moa662/tvbox-duanju/master/jar/xyq-spider.jar",
+      "_依赖": "需自托管 jar（已含官方 Guard 原生库）"
+    },
+    {
+      "key": "TVBOXORG_DuanJuAiXingYa",
+      "name": "【官方】短剧┃星星",
+      "type": 3,
+      "类型": "短剧",
+      "api": "csp_DuanJuAiXingYaGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "_来源": "TVbox.org 官方仓",
+      "jar": "https://raw.githubusercontent.com/moa662/tvbox-duanju/master/jar/xyq-spider.jar",
+      "_依赖": "需自托管 jar（已含官方 Guard 原生库）"
+    },
+    {
+      "key": "TVBOXORG_DuanJuAiWeiGuan",
+      "name": "【官方】短剧┃小薇",
+      "type": 3,
+      "类型": "短剧",
+      "api": "csp_DuanJuAiWeiGuanGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "_来源": "TVbox.org 官方仓",
+      "jar": "https://raw.githubusercontent.com/moa662/tvbox-duanju/master/jar/xyq-spider.jar",
+      "_依赖": "需自托管 jar（已含官方 Guard 原生库）"
+    },
+    {
+      "key": "TVBOXORG_AnimeAiGongHeGuo",
+      "name": "【官方】共和┃动漫",
+      "type": 3,
+      "api": "csp_AnimeAiGongHeGuoGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "_来源": "TVbox.org 官方仓",
+      "jar": "https://raw.githubusercontent.com/moa662/tvbox-duanju/master/jar/xyq-spider.jar",
+      "_依赖": "需自托管 jar（已含官方 Guard 原生库）"
+    },
+    {
+      "key": "TVBOXORG_AnimeXiFan",
+      "name": "【官方】稀饭┃动漫",
+      "type": 3,
+      "api": "csp_AnimeXiFanGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "_来源": "TVbox.org 官方仓",
+      "jar": "https://raw.githubusercontent.com/moa662/tvbox-duanju/master/jar/xyq-spider.jar",
+      "_依赖": "需自托管 jar（已含官方 Guard 原生库）"
+    },
+    {
+      "key": "TVBOXORG_AnimeCiYuanCheng",
+      "name": "【官方】次元┃动漫",
+      "type": 3,
+      "api": "csp_AnimeCiYuanChengGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "_来源": "TVbox.org 官方仓",
+      "jar": "https://raw.githubusercontent.com/moa662/tvbox-duanju/master/jar/xyq-spider.jar",
+      "_依赖": "需自托管 jar（已含官方 Guard 原生库）"
+    },
+    {
+      "key": "TVBOXORG_AnimeAiMoDu",
+      "name": "【官方】魔都┃动漫",
+      "type": 3,
+      "api": "csp_AnimeAiMoDuGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "_来源": "TVbox.org 官方仓",
+      "jar": "https://raw.githubusercontent.com/moa662/tvbox-duanju/master/jar/xyq-spider.jar",
+      "_依赖": "需自托管 jar（已含官方 Guard 原生库）"
+    },
+    {
+      "key": "DRPYS_HONGGUOGUO",
+      "name": "【AI漫剧】红果果(漫剧+AI剧+4榜单)",
+      "type": 3,
+      "api": "csp_Drpy2",
+      "ext": "https://raw.githubusercontent.com/moa662/tvbox-duanju/master/src/hongguo-manju-ai.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "_来源": "woshishiq1/drpys",
+      "_说明": "自包含JS源。分类:短剧/真人剧/漫剧(tab=19)/AI剧(tab=11)+红果/真人/漫剧/AI剧热播榜。内置字节全套签名(x-gorgon/x-ladon/x-helios/x-medusa)。需影视仓支持 csp_Drpy2 且Node>=18。"
+    },
+    {
+      "key": "DRPYS_HONGGUO_MANJU",
+      "name": "【AI漫剧】红果漫剧(Python源)",
+      "type": 3,
+      "api": "csp_HongGuoManJu",
+      "ext": "https://raw.githubusercontent.com/woshishiq1/drpys/main/spider/py/%E7%BA%A2%E6%9E%9C%E6%BC%AB%E5%89%A7.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "_来源": "woshishiq1/drpys",
+      "_说明": "Python/hipy源，专攻红果漫剧。需影视仓支持 hipy 运行时。"
+    },
+    {
+      "key": "DRPYS_HONGGUO_SHORT",
+      "name": "【AI漫剧】红果短剧(需本地插件)",
+      "type": 3,
+      "api": "csp_HongGuo",
+      "ext": "https://raw.githubusercontent.com/woshishiq1/drpys/main/spider/js/%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7[%E7%9F%AD].js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "changeable": 1,
+      "_来源": "woshishiq1/drpys",
+      "_说明": "播放依赖本地 hongguo-bridge 插件(默认127.0.0.1:9877)，跨机需改常量。"
+    },
+    {
+      "key": "LEGE_DUANJU",
+      "name": "【短剧】乐哥短剧专仓(39站)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://raw.githubusercontent.com/moa662/tvbox-duanju/master/jar/xyq-spider.jar",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/dj.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "_来源": "lege0001/TVbox",
+      "_说明": "39个短剧采集站：五点/乾坤/星芽/河马/稀饭/网飞/熊猫/红果短剧/白羊/八戒等"
+    },
+    {
+      "key": "UFEI_DUANJU",
+      "name": "【短剧】优飞短剧专仓(34站)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "http://box.ufuzi.com/tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/spider.jar",
+      "ext": "http://box.ufuzi.com/tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "_来源": "box.ufuzi.com 短剧频道",
+      "_说明": "34个短剧站。含红果短剧分类：有声动漫/女频恋爱/翻转爽剧/古装仙侠/年代穿越/脑洞悬疑/现代都市"
+    },
+    {
+      "key": "DONGLI",
+      "name": "【聚合】东篱影视(93站)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://raw.githubusercontent.com/chitue/dongliTV/main/jar/dongli-spider.jar",
+      "ext": "https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "_来源": "chitue/dongliTV",
+      "_说明": "93站聚合，短剧入口: 🌟｜聚合｜短剧 / 🌟｜盒马｜短剧 / 🌟丨七星丨短剧 / 🌟丨星芽丨短剧"
+    },
+    {
+      "key": "XIAOMA",
+      "name": "【短剧】小马短剧(62站)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://szyyds.cn/tv/x.jpg;md5;4ce29ce27eeff6a73a230dd92d98ba0c",
+      "ext": "https://szyyds.cn/tv/x.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "_来源": "szyyds.cn",
+      "_说明": "62站，独立可用"
+    },
+    {
+      "key": "XHZ_DUANJU",
+      "name": "【短剧】小盒子短剧专线",
+      "type": 3,
+      "api": "csp_Duanju",
+      "jar": "http://xhztv.top/xhz/Yoursmile.jar",
+      "ext": "http://aiduanju.vip/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "_来源": "TVbox.org 官方仓 / 小盒子"
+    },
+    {
+      "key": "DONGLI_ANIME",
+      "name": "【漫剧】东篱动漫入口(5站)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://raw.githubusercontent.com/chitue/dongliTV/main/jar/dongli-spider.jar",
+      "ext": "https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "_来源": "chitue/dongliTV",
+      "_说明": "AGE/方舟/曼波/咕咕/巴士 5个动漫站，AI漫剧常在此类入口"
+    }
+  ],
+  "parses": [
+    {
+      "name": "王",
+      "type": 1,
+      "url": "http://122.228.84.103:7777/api/?key=4Dk5tdayvY6NZufEMG&url="
+    },
+    {
+      "name": "二",
+      "type": 1,
+      "url": "http://110.42.7.182:880/api/?key=7e84f07dc78fbb3406d64a1ab7d966b3&url="
+    },
+    {
+      "name": "小",
+      "type": 1,
+      "url": "http://43.136.176.188:91/api/?key=4ef232e96172b0bda78d393c695fe7c4&url="
+    },
+    {
+      "name": "帅",
+      "type": 1,
+      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
+    },
+    {
+      "name": "Web聚合",
+      "type": 3,
+      "url": "Web"
+    }
+  ],
+  "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
+    }
+  ],
+  "headers": [
+    {
+      "host": "hlsztemgsplive.miguvideo.com",
+      "header": {
+        "User-Agent": "bingcha/1.1 (mianfeifenxiang) "
+      }
+    }
+  ],
+  "rules": [
+    {
+      "name": "proxy",
+      "hosts": [
+        "hlsztemgsplive.miguvideo.com=hlsztemgsplive.188766.xyz",
+        "cache.ott.fifalive.itv.cmvideo.cn=fifalive.188766.xyz",
+        "iptv.huuc.edu.cn=huucv6.188766.xyz",
+        "raw.githubusercontent.com",
+        "googlevideo.com",
+        "cdn.v82u1l.com",
+        "cdn.iz8qkg.com",
+        "cdn.kin6c1.com",
+        "c.biggggg.com",
+        "c.olddddd.com",
+        "haiwaikan.com",
+        "www.histar.tv",
+        "youtube.com",
+        "uhibo.com",
+        ".*boku.*",
+        ".*nivod.*",
+        ".*ulivetv.*"
+      ]
+    },
+    {
+      "name": "海外看",
+      "hosts": [
+        "haiwaikan"
+      ],
+      "regex": [
+        "10.0099",
+        "10.3333",
+        "16.0599",
+        "8.1748",
+        "12.33",
+        "10.85"
+      ]
+    },
+    {
+      "name": "火山嗅探",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "抖音嗅探",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    },
+    {
+      "name": "農民嗅探",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
+      ]
+    },
+    {
+      "name": "新视觉嗅探",
+      "hosts": [
+        "muzhi-video.bj.bcebos.com"
+      ],
+      "regex": [
+        "202403/"
+      ]
+    },
+    {
+      "name": "七新嗅探",
+      "hosts": [
+        "api.52wyb.com"
+      ],
+      "regex": [
+        "m3u8?pt=m3u8"
+      ]
+    },
+    {
+      "name": "夜市點擊",
+      "hosts": [
+        "yeslivetv.com"
+      ],
+      "script": [
+        "document.getElementsByClassName('vjs-big-play-button')[0].click()"
+      ]
+    },
+    {
+      "name": "毛驢點擊",
+      "hosts": [
+        "www.maolvys.com"
+      ],
+      "script": [
+        "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+      ]
+    }
+  ],
+  "_仓库地址": "https://raw.githubusercontent.com/moa662/tvbox-duanju/master/tvbox-duanju.json",
+  "_生成时间": "2026-11-12"
+}

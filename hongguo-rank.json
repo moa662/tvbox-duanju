@@ -1,0 +1,353 @@
+{
+  "抓取时间": "2026-11-12",
+  "来源": "https://hongguoduanju.com/",
+  "说明": "红果官网首页三大分类。漫剧(comic)与AI剧(ai)是独立tab_type——普通影视仓短剧源普遍缺失这两类。",
+  "分类统计": [
+    {
+      "tab_type": "all",
+      "分类名": "热播短剧",
+      "条目数": 9
+    },
+    {
+      "tab_type": "human",
+      "分类名": "热播真人剧",
+      "条目数": 9
+    },
+    {
+      "tab_type": "comic",
+      "分类名": "热播漫剧",
+      "条目数": 9
+    },
+    {
+      "tab_type": "ai",
+      "分类名": "热播AI剧",
+      "条目数": 9
+    }
+  ],
+  "剧集": [
+    {
+      "分类": "热播短剧",
+      "tab_type": "all",
+      "剧名": "万妖图录传第十四季",
+      "集数": "202集",
+      "封面": "https://p6-novel.byteimg.com/novel-pic/973dad4339e00fa9a5d1bf71e6431245~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7702763145030290457",
+      "series_id": "7702763145030290457"
+    },
+    {
+      "分类": "热播短剧",
+      "tab_type": "all",
+      "剧名": "满院亲戚全是上古大妖第七季",
+      "集数": "188集",
+      "封面": "https://p3-novel.byteimg.com/novel-pic/26a04e8d97e0dcf1c0bf78716d86991d~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7705413803088825369",
+      "series_id": "7705413803088825369"
+    },
+    {
+      "分类": "热播短剧",
+      "tab_type": "all",
+      "剧名": "和离后我带女儿横扫魔域",
+      "集数": "1000集",
+      "封面": "https://p3-novel.byteimg.com/novel-pic/c37eb63db868db08eb95e0d8bacd0129~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7698294694886788121",
+      "series_id": "7698294694886788121"
+    },
+    {
+      "分类": "热播短剧",
+      "tab_type": "all",
+      "剧名": "和离后我带女儿横扫魔域第二季",
+      "集数": "521集",
+      "封面": "https://p3-novel.byteimg.com/novel-pic/8a4a416112a1d8afef083499e22f6ad3~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7704261228037671998",
+      "series_id": "7704261228037671998"
+    },
+    {
+      "分类": "热播短剧",
+      "tab_type": "all",
+      "剧名": "谁让这个文盲修仙的第六季",
+      "集数": "220集",
+      "封面": "https://p6-novel.byteimg.com/novel-pic/34444936719e6ae3de4947a3e2f52c35~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7703473850738035737",
+      "series_id": "7703473850738035737"
+    },
+    {
+      "分类": "热播短剧",
+      "tab_type": "all",
+      "剧名": "全球死考：刚下刑场你让我去考试一季",
+      "集数": "786集",
+      "封面": "https://p3-novel.byteimg.com/novel-pic/90efdb1e9bc01e1e4dade7b9a4833446~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7697459724635098174",
+      "series_id": "7697459724635098174"
+    },
+    {
+      "分类": "热播短剧",
+      "tab_type": "all",
+      "剧名": "小镇是非多之同床异梦",
+      "集数": "63集",
+      "封面": "https://p6-novel.byteimg.com/novel-pic/734201989a0f4857f7fac10257e1e003~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7703408432757361688",
+      "series_id": "7703408432757361688"
+    },
+    {
+      "分类": "热播短剧",
+      "tab_type": "all",
+      "剧名": "我合成了全世界啊第3季",
+      "集数": "351集",
+      "封面": "https://p6-novel.byteimg.com/novel-pic/f0d1c897a27c757a8f27509330446fd8~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7704437908387662873",
+      "series_id": "7704437908387662873"
+    },
+    {
+      "分类": "热播短剧",
+      "tab_type": "all",
+      "剧名": "大唐憨婿之我姐姐是太子妃第五季",
+      "集数": "185集",
+      "封面": "https://p6-novel.byteimg.com/novel-pic/37f38cb1aaccc0a30a5d8da2b9114904~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7704303201079544894",
+      "series_id": "7704303201079544894"
+    },
+    {
+      "分类": "热播真人剧",
+      "tab_type": "human",
+      "剧名": "小镇是非多之同床异梦",
+      "集数": "63集",
+      "封面": "https://p6-novel.byteimg.com/novel-pic/734201989a0f4857f7fac10257e1e003~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7703408432757361688",
+      "series_id": "7703408432757361688"
+    },
+    {
+      "分类": "热播真人剧",
+      "tab_type": "human",
+      "剧名": "十八岁太奶奶驾到，重整家族荣耀第五部",
+      "集数": "102集",
+      "封面": "https://p3-novel.byteimg.com/novel-pic/84a71f1a5d7ef5c9c16a73b74011ef75~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7701935931787316286",
+      "series_id": "7701935931787316286"
+    },
+    {
+      "分类": "热播真人剧",
+      "tab_type": "human",
+      "剧名": "一江春水",
+      "集数": "81集",
+      "封面": "https://p6-novel.byteimg.com/novel-pic/74da14930bec1c4f19fe146e95fb7ea1~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7702724487975799832",
+      "series_id": "7702724487975799832"
+    },
+    {
+      "分类": "热播真人剧",
+      "tab_type": "human",
+      "剧名": "二婚嫁对人，前夫悔破防",
+      "集数": "70集",
+      "封面": "https://p6-novel.byteimg.com/novel-pic/0f46fdba7ce0ccfd0e96dcb94209b6ba~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7701678491724418073",
+      "series_id": "7701678491724418073"
+    },
+    {
+      "分类": "热播真人剧",
+      "tab_type": "human",
+      "剧名": "温柔以待，终有回甘",
+      "集数": "84集",
+      "封面": "https://p6-novel.byteimg.com/novel-pic/80d25f9565ce34f9c664b0fdd79977e8~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7703822281448901656",
+      "series_id": "7703822281448901656"
+    },
+    {
+      "分类": "热播真人剧",
+      "tab_type": "human",
+      "剧名": "分你七套房，我调去新疆",
+      "集数": "70集",
+      "封面": "https://p6-novel.byteimg.com/novel-pic/ae949f8eb23d2158a5556a1892d5d158~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7698299554948467736",
+      "series_id": "7698299554948467736"
+    },
+    {
+      "分类": "热播真人剧",
+      "tab_type": "human",
+      "剧名": "高调离婚，叶太太她又狠又硬",
+      "集数": "74集",
+      "封面": "https://p6-novel.byteimg.com/novel-pic/bf258941c2ecb2871f055bc6496ec76b~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7704164246786935832",
+      "series_id": "7704164246786935832"
+    },
+    {
+      "分类": "热播真人剧",
+      "tab_type": "human",
+      "剧名": "一念沉沦，霍总心动了",
+      "集数": "96集",
+      "封面": "https://p6-novel.byteimg.com/novel-pic/adef31dd5cafc28d1cb9d52b0c5e2818~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7701334722449787928",
+      "series_id": "7701334722449787928"
+    },
+    {
+      "分类": "热播真人剧",
+      "tab_type": "human",
+      "剧名": "诚信第一，我在都市找老赖们收债",
+      "集数": "89集",
+      "封面": "https://p6-novel.byteimg.com/novel-pic/326029c0e58f6070e3f0512faf8c99ce~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7704590737282714649",
+      "series_id": "7704590737282714649"
+    },
+    {
+      "分类": "热播漫剧",
+      "tab_type": "comic",
+      "剧名": "万妖图录传第十四季",
+      "集数": "202集",
+      "封面": "https://p6-novel.byteimg.com/novel-pic/973dad4339e00fa9a5d1bf71e6431245~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7702763145030290457",
+      "series_id": "7702763145030290457"
+    },
+    {
+      "分类": "热播漫剧",
+      "tab_type": "comic",
+      "剧名": "满院亲戚全是上古大妖第七季",
+      "集数": "188集",
+      "封面": "https://p3-novel.byteimg.com/novel-pic/26a04e8d97e0dcf1c0bf78716d86991d~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7705413803088825369",
+      "series_id": "7705413803088825369"
+    },
+    {
+      "分类": "热播漫剧",
+      "tab_type": "comic",
+      "剧名": "和离后我带女儿横扫魔域",
+      "集数": "1000集",
+      "封面": "https://p3-novel.byteimg.com/novel-pic/c37eb63db868db08eb95e0d8bacd0129~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7698294694886788121",
+      "series_id": "7698294694886788121"
+    },
+    {
+      "分类": "热播漫剧",
+      "tab_type": "comic",
+      "剧名": "和离后我带女儿横扫魔域第二季",
+      "集数": "521集",
+      "封面": "https://p3-novel.byteimg.com/novel-pic/8a4a416112a1d8afef083499e22f6ad3~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7704261228037671998",
+      "series_id": "7704261228037671998"
+    },
+    {
+      "分类": "热播漫剧",
+      "tab_type": "comic",
+      "剧名": "谁让这个文盲修仙的第六季",
+      "集数": "220集",
+      "封面": "https://p6-novel.byteimg.com/novel-pic/34444936719e6ae3de4947a3e2f52c35~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7703473850738035737",
+      "series_id": "7703473850738035737"
+    },
+    {
+      "分类": "热播漫剧",
+      "tab_type": "comic",
+      "剧名": "全球死考：刚下刑场你让我去考试一季",
+      "集数": "786集",
+      "封面": "https://p3-novel.byteimg.com/novel-pic/90efdb1e9bc01e1e4dade7b9a4833446~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7697459724635098174",
+      "series_id": "7697459724635098174"
+    },
+    {
+      "分类": "热播漫剧",
+      "tab_type": "comic",
+      "剧名": "我合成了全世界啊第3季",
+      "集数": "351集",
+      "封面": "https://p6-novel.byteimg.com/novel-pic/f0d1c897a27c757a8f27509330446fd8~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7704437908387662873",
+      "series_id": "7704437908387662873"
+    },
+    {
+      "分类": "热播漫剧",
+      "tab_type": "comic",
+      "剧名": "觉醒伪神：神明弃我我自为神8",
+      "集数": "213集",
+      "封面": "https://p6-novel.byteimg.com/novel-pic/5bb45f6738c90ddbf4a72fafa6a5963f~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7704219652255140889",
+      "series_id": "7704219652255140889"
+    },
+    {
+      "分类": "热播漫剧",
+      "tab_type": "comic",
+      "剧名": "一梦青玄，团宠小师妹一剑毁天灭地第九季",
+      "集数": "235集",
+      "封面": "https://p6-novel.byteimg.com/novel-pic/63dbc98789d83f266022dfc261ecc1e9~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7705459755216555070",
+      "series_id": "7705459755216555070"
+    },
+    {
+      "分类": "热播AI剧",
+      "tab_type": "ai",
+      "剧名": "大唐憨婿之我姐姐是太子妃第五季",
+      "集数": "185集",
+      "封面": "https://p6-novel.byteimg.com/novel-pic/37f38cb1aaccc0a30a5d8da2b9114904~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7704303201079544894",
+      "series_id": "7704303201079544894"
+    },
+    {
+      "分类": "热播AI剧",
+      "tab_type": "ai",
+      "剧名": "nova：新星",
+      "集数": "60集",
+      "封面": "https://p6-novel.byteimg.com/novel-pic/0aa6041a9d6c405bf5f7ea33604ec2d3~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7699513062054710296",
+      "series_id": "7699513062054710296"
+    },
+    {
+      "分类": "热播AI剧",
+      "tab_type": "ai",
+      "剧名": "持械入宋：第一季",
+      "集数": "100集",
+      "封面": "https://p3-novel.byteimg.com/novel-pic/3edbd9c6ab15ebff3fd0853ec74a4f27~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7671966197985856536",
+      "series_id": "7671966197985856536"
+    },
+    {
+      "分类": "热播AI剧",
+      "tab_type": "ai",
+      "剧名": "退役归来，这个保镖不好惹",
+      "集数": "100集",
+      "封面": "https://p3-novel.byteimg.com/novel-pic/8824990000958fbdb28fb29dca9da667~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7697622096326708286",
+      "series_id": "7697622096326708286"
+    },
+    {
+      "分类": "热播AI剧",
+      "tab_type": "ai",
+      "剧名": "退休老头再就业",
+      "集数": "88集",
+      "封面": "https://p3-novel.byteimg.com/novel-pic/9a37e20f88eb9ee2794ebc3595944501~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7702412157731753022",
+      "series_id": "7702412157731753022"
+    },
+    {
+      "分类": "热播AI剧",
+      "tab_type": "ai",
+      "剧名": "十六年栽培一场空，我为女儿守住万家基业",
+      "集数": "101集",
+      "封面": "https://p3-novel.byteimg.com/novel-pic/8d6fabb02b46f15e95ab7cc95b3fe883~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7702352242254285848",
+      "series_id": "7702352242254285848"
+    },
+    {
+      "分类": "热播AI剧",
+      "tab_type": "ai",
+      "剧名": "要送我联姻，那我就换个继承人",
+      "集数": "85集",
+      "封面": "https://p3-novel.byteimg.com/novel-pic/99ee8d076d3fd6130378765266c2cc12~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7703169791564975128",
+      "series_id": "7703169791564975128"
+    },
+    {
+      "分类": "热播AI剧",
+      "tab_type": "ai",
+      "剧名": "烬九州：三十五季",
+      "集数": "139集",
+      "封面": "https://p6-novel.byteimg.com/novel-pic/3fa7bade56f69f252a13c0f832f6ecfe~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7705463285830667288",
+      "series_id": "7705463285830667288"
+    },
+    {
+      "分类": "热播AI剧",
+      "tab_type": "ai",
+      "剧名": "备用联系人（完）",
+      "集数": "106集",
+      "封面": "https://p3-novel.byteimg.com/novel-pic/f68c6dc9abe69af4b32848b17afd8f1d~tplv-shrink:640:0.image",
+      "详情页": "https://hongguoduanju.com/detail?series_id=7697612795184958489",
+      "series_id": "7697612795184958489"
+    }
+  ]
+}
